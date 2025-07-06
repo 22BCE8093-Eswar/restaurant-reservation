@@ -13,10 +13,10 @@ const Footer = () => {
         </div>
         <div className="banner">
           <div className="left">
-            <p>Developed By Durgesh Singh</p>
+            <p>Developed By Teja,Sravan,Nandha,Yeshwanth</p>
           </div>
           <div className="right">
-            <p>All Rights Reserved By Durgesh Singh</p>
+            <p>All Rights Reserved</p>
           </div>
         </div>
       </div>
